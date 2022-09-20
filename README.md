@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jihanazz
 - 👀 I’m interested in Automatic Mechanical System
-- 🌱 I’m currently learning Mechatronics Engineering
+- 🌱 I’m currently learning Mechatronics Engineering at Yogyakarta State University
 - 💞️ I’m looking to continue my study at overseas
 - 📫 How to reach me jihanazzahra.2019@student.uny.ac.id
 
