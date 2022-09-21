@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automatic Mechanical System
 - 🌱 I’m currently learning Mechatronics Engineering at Yogyakarta State University
 - 💞️ I’m looking to continue my study at overseas
-- 📫 How to reach me jihanazzahra.2019@student.uny.ac.id
+- 📫 How to reach me jihanzzahra27@gmai.com
 
 <!---
 jihanazz/jihanazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
