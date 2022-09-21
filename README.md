@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jihanazz
+- 👋 Hi, I’m Jihan Azzahra
 - 👀 I’m interested in Automatic Mechanical System
 - 🌱 I’m currently learning Mechatronics Engineering at Yogyakarta State University
 - 💞️ I’m looking to continue my study at overseas
